@@ -1,0 +1,4 @@
+===20170717-115718,rop_connectdb[420]=== [+][GMS_REDIS]Connect 192.168.79.146:6379 SUCCESS!
+
+===20170717-115718,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
